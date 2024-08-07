@@ -29,7 +29,7 @@ A project that enables sending emails to multiple users using JavaScript.
 
 ## Contact
 
-- **Email:** (professional gmail)mohithsingh008@gmail.com, (casual gmail)mohith1754singh@gmail.com.
+- **Email:** (professional gmail)mohithsingh008@gmail.com.
 - **LinkedIn:** (https://www.linkedin.com/in/mohithsingh1754/)
 - **Twitter:** (https://x.com/MohithSingh_108)
 
