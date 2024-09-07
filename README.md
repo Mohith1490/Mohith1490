@@ -10,7 +10,7 @@ Welcome to my GitHub profile! 🛸I'm Mohith singh🛸, a passionate full-stack 
 
 ## Projects
 
-### 1. Portfolio Website 🖥️
+### 1. [Portfolio Website](https://mohith1490.github.io/Portfolio) 🖥️ 
 A personal portfolio showcasing my skills, projects, and experience.
 
 - **Technologies Used:** HTML, CSS, JavaScript
